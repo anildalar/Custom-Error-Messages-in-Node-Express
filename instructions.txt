@@ -1,0 +1,9 @@
+regular expression
+
+regex  JS
+
+
+fun1().func2().func3().....
+
+
+string.match(regex);
